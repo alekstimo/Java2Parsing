@@ -1,0 +1,61 @@
+@options
+@argfile
+-encoding
+'Cp1251'
+-protected
+-source
+'8'
+-sourcepath
+'C:/Users/User/Desktop/гамной/Java2Parsing/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/User/Desktop/гамной/Java2Parsing/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Java2Parsing 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/User/Desktop/гамной/Java2Parsing/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Java2Parsing 1.0-SNAPSHOT API'
+'C:/Users/User/Desktop/гамной/Java2Parsing/src/main/java/ListTemplate.java'
+'C:/Users/User/Desktop/гамной/Java2Parsing/src/main/java/Node.java'
+'C:/Users/User/Desktop/гамной/Java2Parsing/src/main/java/pars.java'
+'C:/Users/User/Desktop/гамной/Java2Parsing/src/main/java/Parser.java'
+'C:/Users/User/Desktop/гамной/Java2Parsing/src/main/java/ParserException.java'
+'C:/Users/User/Desktop/гамной/Java2Parsing/src/main/java/Var.java'
+C:\Users\User\Desktop\гамной\Java2Parsing\src\main\java\ListTemplate.java = 1635348129023
+C:\Users\User\Desktop\гамной\Java2Parsing\src\main\java\Node.java = 1635347239025
+C:\Users\User\Desktop\гамной\Java2Parsing\src\main\java\pars.java = 1635335774322
+C:\Users\User\Desktop\гамной\Java2Parsing\src\main\java\Parser.java = 1635786937019
+C:\Users\User\Desktop\гамной\Java2Parsing\src\main\java\ParserException.java = 1635335919637
+C:\Users\User\Desktop\гамной\Java2Parsing\src\main\java\Var.java = 1635344698926
+C:\Users\User\Desktop\гамной\Java2Parsing\src\main\java = 1635944239359
+C:\Users\User\Desktop\гамной\Java2Parsing\target\site\apidocs\allclasses-frame.html = 1635946824214
+C:\Users\User\Desktop\гамной\Java2Parsing\target\site\apidocs\allclasses-noframe.html = 1635946824214
+C:\Users\User\Desktop\гамной\Java2Parsing\target\site\apidocs\constant-values.html = 1635946823707
+C:\Users\User\Desktop\гамной\Java2Parsing\target\site\apidocs\deprecated-list.html = 1635946824136
+C:\Users\User\Desktop\гамной\Java2Parsing\target\site\apidocs\help-doc.html = 1635946824230
+C:\Users\User\Desktop\гамной\Java2Parsing\target\site\apidocs\index-all.html = 1635946824089
+C:\Users\User\Desktop\гамной\Java2Parsing\target\site\apidocs\index.html = 1635946824230
+C:\Users\User\Desktop\гамной\Java2Parsing\target\site\apidocs\ListTemplate.html = 1635946823191
+C:\Users\User\Desktop\гамной\Java2Parsing\target\site\apidocs\Node.html = 1635946823254
+C:\Users\User\Desktop\гамной\Java2Parsing\target\site\apidocs\overview-tree.html = 1635946824058
+C:\Users\User\Desktop\гамной\Java2Parsing\target\site\apidocs\package-frame.html = 1635946823645
+C:\Users\User\Desktop\гамной\Java2Parsing\target\site\apidocs\package-list = 1635946823629
+C:\Users\User\Desktop\гамной\Java2Parsing\target\site\apidocs\package-summary.html = 1635946823660
+C:\Users\User\Desktop\гамной\Java2Parsing\target\site\apidocs\package-tree.html = 1635946823676
+C:\Users\User\Desktop\гамной\Java2Parsing\target\site\apidocs\package-use.html = 1635946824042
+C:\Users\User\Desktop\гамной\Java2Parsing\target\site\apidocs\pars.html = 1635946823300
+C:\Users\User\Desktop\гамной\Java2Parsing\target\site\apidocs\Parser.html = 1635946823363
+C:\Users\User\Desktop\гамной\Java2Parsing\target\site\apidocs\ParserException.html = 1635946823468
+C:\Users\User\Desktop\гамной\Java2Parsing\target\site\apidocs\script.js = 1635946824246
+C:\Users\User\Desktop\гамной\Java2Parsing\target\site\apidocs\serialized-form.html = 1635946823738
+C:\Users\User\Desktop\гамной\Java2Parsing\target\site\apidocs\stylesheet.css = 1635946824246
+C:\Users\User\Desktop\гамной\Java2Parsing\target\site\apidocs\Var.html = 1635946823613
